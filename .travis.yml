@@ -1,7 +1,6 @@
 language: ruby
 
 install:
-  - bundle update
   - bundle install
 
 script:
