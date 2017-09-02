@@ -2,7 +2,6 @@ language: ruby
 
 install:
   - bundle install
-  - bundle update
 
 before_install: gem install bundler
 
