@@ -1,7 +1,7 @@
 language: ruby
 
 install:
-  - bundle install
+  - bundle update
 
 script:
   - jekyll build
